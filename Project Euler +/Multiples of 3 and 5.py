@@ -22,9 +22,6 @@ list = []
 for _ in range(t):
     n=input()
     list.append(n)
-
-
-
 for i in list:
     sum = 0
     a = 1

@@ -5,8 +5,6 @@ list = []
 for _ in range(t):
     n = input()
     list.append(n)
-
-
 for j in list:
     sum = 0
     i = int(j)-1

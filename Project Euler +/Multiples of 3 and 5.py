@@ -13,4 +13,4 @@ for i in list:
             sum = sum + a
         a = a + 1
     print(sum)
-# Since time complexity is more
+# Terminated due to timeout
